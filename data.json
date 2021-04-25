@@ -1,0 +1,31 @@
+{
+    "Akademik": {
+      "-author": "Aku Suka Coding",
+      "mahasiswa": [
+        {
+          "nim": "187006073",
+          "nama": "Zulfikar Ahmad",
+          "alamat": "Tasikmalaya",
+          "jurusan": "Teknik Informatika"
+        },
+        {
+          "nim": "18700616",
+          "nama": "Jojo",
+          "alamat": "Surabaya",
+          "jurusan": "Sastra Inggris"
+        },
+        {
+          "nim": "18700617",
+          "nama": "Amin",
+          "alamat": "Banjar",
+          "jurusan": "Hukum"
+        },
+        {
+          "nim": "18700616",
+          "nama": "Taufik",
+          "alamat": "Garut",
+          "jurusan": "Sastra Jepang"
+        }
+      ]
+    }
+  }

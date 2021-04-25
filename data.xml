@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Akademik author="Aku Suka Coding">
+     <mahasiswa>
+         <nim>187006073</nim>
+         <nama>Zulfikar Ahmad</nama>
+         <alamat>Tasikmalaya</alamat>
+         <jurusan>Teknik Informatika</jurusan>
+     </mahasiswa>
+     <mahasiswa>
+         <nim>18700616</nim>
+         <nama>Jojo</nama>
+         <alamat>Surabaya</alamat>
+         <jurusan>Sastra Inggris</jurusan>
+     </mahasiswa>
+     <mahasiswa>
+         <nim>18700617</nim>
+         <nama>Amin</nama>
+         <alamat>Banjar</alamat>
+         <jurusan>Hukum</jurusan>
+     </mahasiswa>
+     <mahasiswa>
+         <nim>18700616</nim>
+         <nama>Taufik</nama>
+         <alamat>Garut</alamat>
+         <jurusan>Sastra Jepang</jurusan>
+     </mahasiswa>
+</Akademik>
